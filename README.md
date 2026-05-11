@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surenderkumar01&label=Profile%20views&color=0e75b6&style=flat" alt="surenderkumar01" /> </p>
 
-- 🌱 I’m currently learning **Android studio**
+- 🌱 Android Developer | Currently working with Android Studio, Kotlin, Jetpack Compose, and Firebase.
 
 - 📫 How to reach me **surenderkumar0011996@gmail.com**
 
